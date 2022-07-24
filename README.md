@@ -12,7 +12,7 @@ SpaceZero is a Real Time Strategy 2D space combat game for two players over a ne
 (see also [INSTALL](./INSTALL))
 
 ```bash
-sudo apt install libgtk2.0-dev libglib2.0-dev libopenal-dev libalut-dev libvorbis-dev libX11-dev
+sudo apt install libgtk2.0-dev libglib2.0-dev libopenal-dev libalut-dev libvorbis-dev libx11-dev
 make spacezero
 sudo make install
 ```

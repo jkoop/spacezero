@@ -11,7 +11,7 @@ libglib2.0-dev
 libopenal-dev
 libalut-dev 
 libvorbis-dev
-libX11-dev
+libx11-dev
 
 Compiling and Installing
 ========================
